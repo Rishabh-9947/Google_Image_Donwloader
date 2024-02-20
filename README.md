@@ -1,5 +1,3 @@
-# Google_Image_Donwloader
-Automate image downloads with a Python script using Google's API. Learn to parse JSON, handle files, and respect API limits. Ideal for API beginners.
 # Google Image Downloader
 
 This Python script automates the process of downloading images from Google based on user queries. Utilizing the Google Custom Search JSON API, it demonstrates how to interact with APIs, parse JSON responses, and manage file I/O operations in Python.
