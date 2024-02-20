@@ -29,3 +29,6 @@ Run the script from the command line and follow the prompts:
 
 ```bash
 python google_image_downloader.py
+
+
+## This README provides a comprehensive overview of the project, including its purpose, features, setup instructions, usage details, customization options, and a disclaimer regarding the use of downloaded images. It also invites contributions, fostering community engagement.
